@@ -1,1 +1,3 @@
-# Socials
+**Output**
+
+![Output Screenshot](social.jpeg)
