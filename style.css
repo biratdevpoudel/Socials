@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background: black;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    gap: 120px;
+}
+#discord,
+#twitter,    
+#github{
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
