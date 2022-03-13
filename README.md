@@ -1,3 +1,3 @@
-**Output**
+**Output:**
 
 ![Output Screenshot](social.jpeg)
